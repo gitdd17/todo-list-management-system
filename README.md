@@ -1,14 +1,4 @@
-![todo](https://github.com/user-attachments/assets/891f204f-b8c0-4b4d-b13c-248ca14b803f)
-
 <h1 align="center">ToDo App with React.js |CRUD </h1>
-
-<div align="center">
-
-Tutorial from [@Smoljames](https://www.youtube.com/watch?v=82PXenL4MGg&t=2020s)    
-<br>
-🌐 [View Live Page](https://reactjs-todoapp-tutorial.netlify.app/)
-
-</div> 
 
 ## About The Project
 
@@ -46,13 +36,3 @@ npm install
 npm run dev
 ```
 5. The app will run at `localhost`
-
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> Let’s connect:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-827a67?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rukenerpolat)
-[![Medium](https://img.shields.io/badge/-Medium-827a67?style=flat&logo=medium&logoColor=white)](https://medium.com/@rukenerpolat)
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-827a67?style=flat&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/rukenerpolat)
-[![GitHub](https://img.shields.io/badge/-GitHub-827a67?style=flat&logo=github&logoColor=white)](https://github.com/rukenerpolat)
-
-Thank you for your visit! 🖖     
-<b><em>Ruken ERPOLAT</em></b> 
